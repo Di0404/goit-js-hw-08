@@ -23,8 +23,6 @@ const onPlay = function(data) {
     console.log(data.seconds)
 };
 
-
-
 // 4.Разбери документацию метода on() и начни отслеживать событие timeupdate - 
 // обновление времени воспроизведения. OK
 // это из докуметации... player.on('play', onPlay);
